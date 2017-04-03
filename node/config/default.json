@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "07b96b48d49c70c40fa1bcf70e49b285",
+    "pageAccessToken": "EAAXw68dew0cBADmCF8uEU6nBYuGNj5OzbxZByG1h0fvUTFZAfDo7oZCFkHQPMMqjxeBtTBbC4ZAcZBpfThxWRlRGwHiZAobVZC2TNW4JFZBzBqgGh8LBf2NCXCJAm6A3ZCDymljcMPe2UngZBe0583b2mHniNcd9GtZCuJ0CgF4XzBnaAZDZD",
+    "validationToken": "cindy-travel1988",
+    "serverURL": "https://cindy-travel.herokuapp.com/"
 }
